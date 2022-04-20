@@ -84,6 +84,5 @@ function bfs(start) {
 
             }
 
-           
 
         }
